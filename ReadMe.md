@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm currently working on website design and front end development<br>I'm looking to collaborate on real time projects <br>I'm looking for help with my skills and Front end technologies<br>I'm currently learning ReactJS
+I'm currently working on website design and front end development<br>I'm looking to collaborate on real time projects <br>I'm looking for help with my skills and Front end technologies<br>Also, I'm currently learning ReactJS
 
 
 ## 🌐 Socials:
